@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: /
-
-# This is a staging site and should not be indexed by search engines
