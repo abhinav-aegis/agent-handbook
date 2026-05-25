@@ -1,6 +1,6 @@
 export default {
   index: 'Overview',
-  'chapter-4': 'Context as a Controlled Input Layer',
-  'chapter-5': 'Identity, Authority, and Policy-Bound Action',
-  'chapter-6': 'The Controlled AI System Architecture'
+  'chapter-3': 'Context as a Controlled Input Layer',
+  'chapter-4': 'Identity, Authority, and Policy-Bound Action',
+  'chapter-5': 'The Controlled AI System Architecture'
 }
